@@ -28,1077 +28,1077 @@
     {
       "id": "bg_castle",
       "type": "image",
-      "relativePath": "textures/bg_castle.png"
+      "relativePath": "textures/bg_castle.webp"
     },
     {
       "id": "bg_castle_wide",
       "type": "image",
-      "relativePath": "textures/bg_castle_wide.png"
+      "relativePath": "textures/bg_castle_wide.webp"
     },
     {
       "id": "bg_forest",
       "type": "image",
-      "relativePath": "textures/bg_forest.png"
+      "relativePath": "textures/bg_forest.webp"
     },
     {
       "id": "bg_forest_wide",
       "type": "image",
-      "relativePath": "textures/bg_forest_wide.png"
+      "relativePath": "textures/bg_forest_wide.webp"
     },
     {
       "id": "bg_graveyard",
       "type": "image",
-      "relativePath": "textures/bg_graveyard.png"
+      "relativePath": "textures/bg_graveyard.webp"
     },
     {
       "id": "bg_graveyard_wide",
       "type": "image",
-      "relativePath": "textures/bg_graveyard_wide.png"
+      "relativePath": "textures/bg_graveyard_wide.webp"
     },
     {
       "id": "bg_mansion",
       "type": "image",
-      "relativePath": "textures/bg_mansion.png"
+      "relativePath": "textures/bg_mansion.webp"
     },
     {
       "id": "bg_mansion_wide",
       "type": "image",
-      "relativePath": "textures/bg_mansion_wide.png"
+      "relativePath": "textures/bg_mansion_wide.webp"
     },
     {
       "id": "bg_patch",
       "type": "image",
-      "relativePath": "textures/bg_patch.png"
+      "relativePath": "textures/bg_patch.webp"
     },
     {
       "id": "bg_patch_wide",
       "type": "image",
-      "relativePath": "textures/bg_patch_wide.png"
+      "relativePath": "textures/bg_patch_wide.webp"
     },
     {
       "id": "deco_asteria_aim_body",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_body.png"
+      "relativePath": "textures/deco_asteria_aim_body.webp"
     },
     {
       "id": "deco_asteria_aim_cape",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_cape.png"
+      "relativePath": "textures/deco_asteria_aim_cape.webp"
     },
     {
       "id": "deco_asteria_aim_flap",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_flap.png"
+      "relativePath": "textures/deco_asteria_aim_flap.webp"
     },
     {
       "id": "deco_asteria_aim_hair",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_hair.png"
+      "relativePath": "textures/deco_asteria_aim_hair.webp"
     },
     {
       "id": "deco_asteria_aim_head",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_head.png"
+      "relativePath": "textures/deco_asteria_aim_head.webp"
     },
     {
       "id": "deco_asteria_aim_rifle",
       "type": "image",
-      "relativePath": "textures/deco_asteria_aim_rifle.png"
+      "relativePath": "textures/deco_asteria_aim_rifle.webp"
     },
     {
       "id": "deco_asteria_cover_arm",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_arm.png"
+      "relativePath": "textures/deco_asteria_cover_arm.webp"
     },
     {
       "id": "deco_asteria_cover_body",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_body.png"
+      "relativePath": "textures/deco_asteria_cover_body.webp"
     },
     {
       "id": "deco_asteria_cover_cape",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_cape.png"
+      "relativePath": "textures/deco_asteria_cover_cape.webp"
     },
     {
       "id": "deco_asteria_cover_hair",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_hair.png"
+      "relativePath": "textures/deco_asteria_cover_hair.webp"
     },
     {
       "id": "deco_asteria_cover_hand",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_hand.png"
+      "relativePath": "textures/deco_asteria_cover_hand.webp"
     },
     {
       "id": "deco_asteria_cover_head",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_head.png"
+      "relativePath": "textures/deco_asteria_cover_head.webp"
     },
     {
       "id": "deco_asteria_cover_lip",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_lip.png"
+      "relativePath": "textures/deco_asteria_cover_lip.webp"
     },
     {
       "id": "deco_asteria_cover_neck",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_neck.png"
+      "relativePath": "textures/deco_asteria_cover_neck.webp"
     },
     {
       "id": "deco_asteria_cover_rifle",
       "type": "image",
-      "relativePath": "textures/deco_asteria_cover_rifle.png"
+      "relativePath": "textures/deco_asteria_cover_rifle.webp"
     },
     {
       "id": "deco_asteria_half",
       "type": "image",
-      "relativePath": "textures/deco_asteria_half.png"
+      "relativePath": "textures/deco_asteria_half.webp"
     },
     {
       "id": "deco_asteria_portrait",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait.png"
+      "relativePath": "textures/deco_asteria_portrait.webp"
     },
     {
       "id": "deco_asteria_portrait_arm_far",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_arm_far.png"
+      "relativePath": "textures/deco_asteria_portrait_arm_far.webp"
     },
     {
       "id": "deco_asteria_portrait_body",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_body.png"
+      "relativePath": "textures/deco_asteria_portrait_body.webp"
     },
     {
       "id": "deco_asteria_portrait_cape",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_cape.png"
+      "relativePath": "textures/deco_asteria_portrait_cape.webp"
     },
     {
       "id": "deco_asteria_portrait_hair_back",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_hair_back.png"
+      "relativePath": "textures/deco_asteria_portrait_hair_back.webp"
     },
     {
       "id": "deco_asteria_portrait_head",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_head.png"
+      "relativePath": "textures/deco_asteria_portrait_head.webp"
     },
     {
       "id": "deco_asteria_portrait_lock",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_lock.png"
+      "relativePath": "textures/deco_asteria_portrait_lock.webp"
     },
     {
       "id": "deco_asteria_portrait_rifle",
       "type": "image",
-      "relativePath": "textures/deco_asteria_portrait_rifle.png"
+      "relativePath": "textures/deco_asteria_portrait_rifle.webp"
     },
     {
       "id": "deco_bat_body",
       "type": "image",
-      "relativePath": "textures/deco_bat_body.png"
+      "relativePath": "textures/deco_bat_body.webp"
     },
     {
       "id": "deco_bat_ears",
       "type": "image",
-      "relativePath": "textures/deco_bat_ears.png"
+      "relativePath": "textures/deco_bat_ears.webp"
     },
     {
       "id": "deco_bat_foot_far",
       "type": "image",
-      "relativePath": "textures/deco_bat_foot_far.png"
+      "relativePath": "textures/deco_bat_foot_far.webp"
     },
     {
       "id": "deco_bat_foot_near",
       "type": "image",
-      "relativePath": "textures/deco_bat_foot_near.png"
+      "relativePath": "textures/deco_bat_foot_near.webp"
     },
     {
       "id": "deco_bat_wing_far",
       "type": "image",
-      "relativePath": "textures/deco_bat_wing_far.png"
+      "relativePath": "textures/deco_bat_wing_far.webp"
     },
     {
       "id": "deco_bat_wing_near",
       "type": "image",
-      "relativePath": "textures/deco_bat_wing_near.png"
+      "relativePath": "textures/deco_bat_wing_near.webp"
     },
     {
       "id": "deco_bit_blueberry",
       "type": "image",
-      "relativePath": "textures/deco_bit_blueberry.png"
+      "relativePath": "textures/deco_bit_blueberry.webp"
     },
     {
       "id": "deco_bit_caramel",
       "type": "image",
-      "relativePath": "textures/deco_bit_caramel.png"
+      "relativePath": "textures/deco_bit_caramel.webp"
     },
     {
       "id": "deco_bit_corn",
       "type": "image",
-      "relativePath": "textures/deco_bit_corn.png"
+      "relativePath": "textures/deco_bit_corn.webp"
     },
     {
       "id": "deco_bit_heart",
       "type": "image",
-      "relativePath": "textures/deco_bit_heart.png"
+      "relativePath": "textures/deco_bit_heart.webp"
     },
     {
       "id": "deco_bit_star",
       "type": "image",
-      "relativePath": "textures/deco_bit_star.png"
+      "relativePath": "textures/deco_bit_star.webp"
     },
     {
       "id": "deco_bit_swirl",
       "type": "image",
-      "relativePath": "textures/deco_bit_swirl.png"
+      "relativePath": "textures/deco_bit_swirl.webp"
     },
     {
       "id": "deco_cover_castle",
       "type": "image",
-      "relativePath": "textures/deco_cover_castle.png"
+      "relativePath": "textures/deco_cover_castle.webp"
     },
     {
       "id": "deco_cover_castle_wide",
       "type": "image",
-      "relativePath": "textures/deco_cover_castle_wide.png"
+      "relativePath": "textures/deco_cover_castle_wide.webp"
     },
     {
       "id": "deco_cover_forest",
       "type": "image",
-      "relativePath": "textures/deco_cover_forest.png"
+      "relativePath": "textures/deco_cover_forest.webp"
     },
     {
       "id": "deco_cover_forest_wide",
       "type": "image",
-      "relativePath": "textures/deco_cover_forest_wide.png"
+      "relativePath": "textures/deco_cover_forest_wide.webp"
     },
     {
       "id": "deco_cover_graveyard",
       "type": "image",
-      "relativePath": "textures/deco_cover_graveyard.png"
+      "relativePath": "textures/deco_cover_graveyard.webp"
     },
     {
       "id": "deco_cover_graveyard_wide",
       "type": "image",
-      "relativePath": "textures/deco_cover_graveyard_wide.png"
+      "relativePath": "textures/deco_cover_graveyard_wide.webp"
     },
     {
       "id": "deco_cover_mansion",
       "type": "image",
-      "relativePath": "textures/deco_cover_mansion.png"
+      "relativePath": "textures/deco_cover_mansion.webp"
     },
     {
       "id": "deco_cover_mansion_wide",
       "type": "image",
-      "relativePath": "textures/deco_cover_mansion_wide.png"
+      "relativePath": "textures/deco_cover_mansion_wide.webp"
     },
     {
       "id": "deco_cover_patch",
       "type": "image",
-      "relativePath": "textures/deco_cover_patch.png"
+      "relativePath": "textures/deco_cover_patch.webp"
     },
     {
       "id": "deco_cover_patch_wide",
       "type": "image",
-      "relativePath": "textures/deco_cover_patch_wide.png"
+      "relativePath": "textures/deco_cover_patch_wide.webp"
     },
     {
       "id": "deco_fog_band",
       "type": "image",
-      "relativePath": "textures/deco_fog_band.png"
+      "relativePath": "textures/deco_fog_band.webp"
     },
     {
       "id": "deco_ghost_arm_far",
       "type": "image",
-      "relativePath": "textures/deco_ghost_arm_far.png"
+      "relativePath": "textures/deco_ghost_arm_far.webp"
     },
     {
       "id": "deco_ghost_arm_near",
       "type": "image",
-      "relativePath": "textures/deco_ghost_arm_near.png"
+      "relativePath": "textures/deco_ghost_arm_near.webp"
     },
     {
       "id": "deco_ghost_body",
       "type": "image",
-      "relativePath": "textures/deco_ghost_body.png"
+      "relativePath": "textures/deco_ghost_body.webp"
     },
     {
       "id": "deco_goo_marshmallow",
       "type": "image",
-      "relativePath": "textures/deco_goo_marshmallow.png"
+      "relativePath": "textures/deco_goo_marshmallow.webp"
     },
     {
       "id": "deco_king_arm",
       "type": "image",
-      "relativePath": "textures/deco_king_arm.png"
+      "relativePath": "textures/deco_king_arm.webp"
     },
     {
       "id": "deco_king_cape",
       "type": "image",
-      "relativePath": "textures/deco_king_cape.png"
+      "relativePath": "textures/deco_king_cape.webp"
     },
     {
       "id": "deco_king_cape_back",
       "type": "image",
-      "relativePath": "textures/deco_king_cape_back.png"
+      "relativePath": "textures/deco_king_cape_back.webp"
     },
     {
       "id": "deco_king_giant",
       "type": "image",
-      "relativePath": "textures/deco_king_giant.png"
+      "relativePath": "textures/deco_king_giant.webp"
     },
     {
       "id": "deco_king_head",
       "type": "image",
-      "relativePath": "textures/deco_king_head.png"
+      "relativePath": "textures/deco_king_head.webp"
     },
     {
       "id": "deco_king_legs",
       "type": "image",
-      "relativePath": "textures/deco_king_legs.png"
+      "relativePath": "textures/deco_king_legs.webp"
     },
     {
       "id": "deco_king_orb",
       "type": "image",
-      "relativePath": "textures/deco_king_orb.png"
+      "relativePath": "textures/deco_king_orb.webp"
     },
     {
       "id": "deco_king_vine",
       "type": "image",
-      "relativePath": "textures/deco_king_vine.png"
+      "relativePath": "textures/deco_king_vine.webp"
     },
     {
       "id": "deco_light_glow",
       "type": "image",
-      "relativePath": "textures/deco_light_glow.png"
+      "relativePath": "textures/deco_light_glow.webp"
     },
     {
       "id": "deco_light_rays",
       "type": "image",
-      "relativePath": "textures/deco_light_rays.png"
+      "relativePath": "textures/deco_light_rays.webp"
     },
     {
       "id": "deco_light_ring",
       "type": "image",
-      "relativePath": "textures/deco_light_ring.png"
+      "relativePath": "textures/deco_light_ring.webp"
     },
     {
       "id": "deco_light_sparkle",
       "type": "image",
-      "relativePath": "textures/deco_light_sparkle.png"
+      "relativePath": "textures/deco_light_sparkle.webp"
     },
     {
       "id": "deco_light_star",
       "type": "image",
-      "relativePath": "textures/deco_light_star.png"
+      "relativePath": "textures/deco_light_star.webp"
     },
     {
       "id": "deco_light_streak",
       "type": "image",
-      "relativePath": "textures/deco_light_streak.png"
+      "relativePath": "textures/deco_light_streak.webp"
     },
     {
       "id": "deco_lumi_aim_body",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_body.png"
+      "relativePath": "textures/deco_lumi_aim_body.webp"
     },
     {
       "id": "deco_lumi_aim_gun",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_gun.png"
+      "relativePath": "textures/deco_lumi_aim_gun.webp"
     },
     {
       "id": "deco_lumi_aim_hair",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_hair.png"
+      "relativePath": "textures/deco_lumi_aim_hair.webp"
     },
     {
       "id": "deco_lumi_aim_head",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_head.png"
+      "relativePath": "textures/deco_lumi_aim_head.webp"
     },
     {
       "id": "deco_lumi_aim_hood",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_hood.png"
+      "relativePath": "textures/deco_lumi_aim_hood.webp"
     },
     {
       "id": "deco_lumi_aim_skirt",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_skirt.png"
+      "relativePath": "textures/deco_lumi_aim_skirt.webp"
     },
     {
       "id": "deco_lumi_aim_sleeve",
       "type": "image",
-      "relativePath": "textures/deco_lumi_aim_sleeve.png"
+      "relativePath": "textures/deco_lumi_aim_sleeve.webp"
     },
     {
       "id": "deco_lumi_cover_body",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_body.png"
+      "relativePath": "textures/deco_lumi_cover_body.webp"
     },
     {
       "id": "deco_lumi_cover_capelet",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_capelet.png"
+      "relativePath": "textures/deco_lumi_cover_capelet.webp"
     },
     {
       "id": "deco_lumi_cover_drop",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_drop.png"
+      "relativePath": "textures/deco_lumi_cover_drop.webp"
     },
     {
       "id": "deco_lumi_cover_gun",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_gun.png"
+      "relativePath": "textures/deco_lumi_cover_gun.webp"
     },
     {
       "id": "deco_lumi_cover_hands",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_hands.png"
+      "relativePath": "textures/deco_lumi_cover_hands.webp"
     },
     {
       "id": "deco_lumi_cover_head",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_head.png"
+      "relativePath": "textures/deco_lumi_cover_head.webp"
     },
     {
       "id": "deco_lumi_cover_lip",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_lip.png"
+      "relativePath": "textures/deco_lumi_cover_lip.webp"
     },
     {
       "id": "deco_lumi_cover_sleeve",
       "type": "image",
-      "relativePath": "textures/deco_lumi_cover_sleeve.png"
+      "relativePath": "textures/deco_lumi_cover_sleeve.webp"
     },
     {
       "id": "deco_lumi_half",
       "type": "image",
-      "relativePath": "textures/deco_lumi_half.png"
+      "relativePath": "textures/deco_lumi_half.webp"
     },
     {
       "id": "deco_lumi_portrait",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait.png"
+      "relativePath": "textures/deco_lumi_portrait.webp"
     },
     {
       "id": "deco_lumi_portrait_arm_free",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_arm_free.png"
+      "relativePath": "textures/deco_lumi_portrait_arm_free.webp"
     },
     {
       "id": "deco_lumi_portrait_arm_gun",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_arm_gun.png"
+      "relativePath": "textures/deco_lumi_portrait_arm_gun.webp"
     },
     {
       "id": "deco_lumi_portrait_body",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_body.png"
+      "relativePath": "textures/deco_lumi_portrait_body.webp"
     },
     {
       "id": "deco_lumi_portrait_gun",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_gun.png"
+      "relativePath": "textures/deco_lumi_portrait_gun.webp"
     },
     {
       "id": "deco_lumi_portrait_hair_back",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_hair_back.png"
+      "relativePath": "textures/deco_lumi_portrait_hair_back.webp"
     },
     {
       "id": "deco_lumi_portrait_head",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_head.png"
+      "relativePath": "textures/deco_lumi_portrait_head.webp"
     },
     {
       "id": "deco_lumi_portrait_poncho",
       "type": "image",
-      "relativePath": "textures/deco_lumi_portrait_poncho.png"
+      "relativePath": "textures/deco_lumi_portrait_poncho.webp"
     },
     {
       "id": "deco_missile_bone",
       "type": "image",
-      "relativePath": "textures/deco_missile_bone.png"
+      "relativePath": "textures/deco_missile_bone.webp"
     },
     {
       "id": "deco_missile_pumpkin",
       "type": "image",
-      "relativePath": "textures/deco_missile_pumpkin.png"
+      "relativePath": "textures/deco_missile_pumpkin.webp"
     },
     {
       "id": "deco_mummy_arm_far",
       "type": "image",
-      "relativePath": "textures/deco_mummy_arm_far.png"
+      "relativePath": "textures/deco_mummy_arm_far.webp"
     },
     {
       "id": "deco_mummy_arm_near",
       "type": "image",
-      "relativePath": "textures/deco_mummy_arm_near.png"
+      "relativePath": "textures/deco_mummy_arm_near.webp"
     },
     {
       "id": "deco_mummy_body",
       "type": "image",
-      "relativePath": "textures/deco_mummy_body.png"
+      "relativePath": "textures/deco_mummy_body.webp"
     },
     {
       "id": "deco_mummy_head",
       "type": "image",
-      "relativePath": "textures/deco_mummy_head.png"
+      "relativePath": "textures/deco_mummy_head.webp"
     },
     {
       "id": "deco_mummy_knot",
       "type": "image",
-      "relativePath": "textures/deco_mummy_knot.png"
+      "relativePath": "textures/deco_mummy_knot.webp"
     },
     {
       "id": "deco_mummy_leg_far",
       "type": "image",
-      "relativePath": "textures/deco_mummy_leg_far.png"
+      "relativePath": "textures/deco_mummy_leg_far.webp"
     },
     {
       "id": "deco_mummy_leg_near",
       "type": "image",
-      "relativePath": "textures/deco_mummy_leg_near.png"
+      "relativePath": "textures/deco_mummy_leg_near.webp"
     },
     {
       "id": "deco_mummy_tail",
       "type": "image",
-      "relativePath": "textures/deco_mummy_tail.png"
+      "relativePath": "textures/deco_mummy_tail.webp"
     },
     {
       "id": "deco_nyx_aim_arm",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_arm.png"
+      "relativePath": "textures/deco_nyx_aim_arm.webp"
     },
     {
       "id": "deco_nyx_aim_body",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_body.png"
+      "relativePath": "textures/deco_nyx_aim_body.webp"
     },
     {
       "id": "deco_nyx_aim_hair",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_hair.png"
+      "relativePath": "textures/deco_nyx_aim_hair.webp"
     },
     {
       "id": "deco_nyx_aim_hand_r",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_hand_r.png"
+      "relativePath": "textures/deco_nyx_aim_hand_r.webp"
     },
     {
       "id": "deco_nyx_aim_head",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_head.png"
+      "relativePath": "textures/deco_nyx_aim_head.webp"
     },
     {
       "id": "deco_nyx_aim_launcher",
       "type": "image",
-      "relativePath": "textures/deco_nyx_aim_launcher.png"
+      "relativePath": "textures/deco_nyx_aim_launcher.webp"
     },
     {
       "id": "deco_nyx_cover_arm_l",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_arm_l.png"
+      "relativePath": "textures/deco_nyx_cover_arm_l.webp"
     },
     {
       "id": "deco_nyx_cover_body",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_body.png"
+      "relativePath": "textures/deco_nyx_cover_body.webp"
     },
     {
       "id": "deco_nyx_cover_hair",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_hair.png"
+      "relativePath": "textures/deco_nyx_cover_hair.webp"
     },
     {
       "id": "deco_nyx_cover_hair_out",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_hair_out.png"
+      "relativePath": "textures/deco_nyx_cover_hair_out.webp"
     },
     {
       "id": "deco_nyx_cover_head",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_head.png"
+      "relativePath": "textures/deco_nyx_cover_head.webp"
     },
     {
       "id": "deco_nyx_cover_rim",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_rim.png"
+      "relativePath": "textures/deco_nyx_cover_rim.webp"
     },
     {
       "id": "deco_nyx_cover_rocket",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_rocket.png"
+      "relativePath": "textures/deco_nyx_cover_rocket.webp"
     },
     {
       "id": "deco_nyx_cover_sleeve_r",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_sleeve_r.png"
+      "relativePath": "textures/deco_nyx_cover_sleeve_r.webp"
     },
     {
       "id": "deco_nyx_cover_tube",
       "type": "image",
-      "relativePath": "textures/deco_nyx_cover_tube.png"
+      "relativePath": "textures/deco_nyx_cover_tube.webp"
     },
     {
       "id": "deco_nyx_half",
       "type": "image",
-      "relativePath": "textures/deco_nyx_half.png"
+      "relativePath": "textures/deco_nyx_half.webp"
     },
     {
       "id": "deco_nyx_portrait",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait.png"
+      "relativePath": "textures/deco_nyx_portrait.webp"
     },
     {
       "id": "deco_nyx_portrait_body",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_body.png"
+      "relativePath": "textures/deco_nyx_portrait_body.webp"
     },
     {
       "id": "deco_nyx_portrait_gun_arm",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_gun_arm.png"
+      "relativePath": "textures/deco_nyx_portrait_gun_arm.webp"
     },
     {
       "id": "deco_nyx_portrait_hair_back",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_hair_back.png"
+      "relativePath": "textures/deco_nyx_portrait_hair_back.webp"
     },
     {
       "id": "deco_nyx_portrait_head",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_head.png"
+      "relativePath": "textures/deco_nyx_portrait_head.webp"
     },
     {
       "id": "deco_nyx_portrait_hip_arm",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_hip_arm.png"
+      "relativePath": "textures/deco_nyx_portrait_hip_arm.webp"
     },
     {
       "id": "deco_nyx_portrait_launcher",
       "type": "image",
-      "relativePath": "textures/deco_nyx_portrait_launcher.png"
+      "relativePath": "textures/deco_nyx_portrait_launcher.webp"
     },
     {
       "id": "deco_puff_round",
       "type": "image",
-      "relativePath": "textures/deco_puff_round.png"
+      "relativePath": "textures/deco_puff_round.webp"
     },
     {
       "id": "deco_puff_small",
       "type": "image",
-      "relativePath": "textures/deco_puff_small.png"
+      "relativePath": "textures/deco_puff_small.webp"
     },
     {
       "id": "deco_puff_wide",
       "type": "image",
-      "relativePath": "textures/deco_puff_wide.png"
+      "relativePath": "textures/deco_puff_wide.webp"
     },
     {
       "id": "deco_pumpkin_body",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_body.png"
+      "relativePath": "textures/deco_pumpkin_body.webp"
     },
     {
       "id": "deco_pumpkin_boot",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_boot.png"
+      "relativePath": "textures/deco_pumpkin_boot.webp"
     },
     {
       "id": "deco_pumpkin_flame",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_flame.png"
+      "relativePath": "textures/deco_pumpkin_flame.webp"
     },
     {
       "id": "deco_pumpkin_fuse",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_fuse.png"
+      "relativePath": "textures/deco_pumpkin_fuse.webp"
     },
     {
       "id": "deco_pumpkin_leg_back",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_leg_back.png"
+      "relativePath": "textures/deco_pumpkin_leg_back.webp"
     },
     {
       "id": "deco_pumpkin_thigh",
       "type": "image",
-      "relativePath": "textures/deco_pumpkin_thigh.png"
+      "relativePath": "textures/deco_pumpkin_thigh.webp"
     },
     {
       "id": "deco_shard_pumpkin_big",
       "type": "image",
-      "relativePath": "textures/deco_shard_pumpkin_big.png"
+      "relativePath": "textures/deco_shard_pumpkin_big.webp"
     },
     {
       "id": "deco_shard_pumpkin_small",
       "type": "image",
-      "relativePath": "textures/deco_shard_pumpkin_small.png"
+      "relativePath": "textures/deco_shard_pumpkin_small.webp"
     },
     {
       "id": "deco_shard_pumpkin_stem",
       "type": "image",
-      "relativePath": "textures/deco_shard_pumpkin_stem.png"
+      "relativePath": "textures/deco_shard_pumpkin_stem.webp"
     },
     {
       "id": "deco_shot_bean",
       "type": "image",
-      "relativePath": "textures/deco_shot_bean.png"
+      "relativePath": "textures/deco_shot_bean.webp"
     },
     {
       "id": "deco_shot_cane",
       "type": "image",
-      "relativePath": "textures/deco_shot_cane.png"
+      "relativePath": "textures/deco_shot_cane.webp"
     },
     {
       "id": "deco_shot_chocolate",
       "type": "image",
-      "relativePath": "textures/deco_shot_chocolate.png"
+      "relativePath": "textures/deco_shot_chocolate.webp"
     },
     {
       "id": "deco_shot_marshmallow",
       "type": "image",
-      "relativePath": "textures/deco_shot_marshmallow.png"
+      "relativePath": "textures/deco_shot_marshmallow.webp"
     },
     {
       "id": "deco_shot_popping",
       "type": "image",
-      "relativePath": "textures/deco_shot_popping.png"
+      "relativePath": "textures/deco_shot_popping.webp"
     },
     {
       "id": "deco_sight",
       "type": "image",
-      "relativePath": "textures/deco_sight.png"
+      "relativePath": "textures/deco_sight.webp"
     },
     {
       "id": "deco_sight_on",
       "type": "image",
-      "relativePath": "textures/deco_sight_on.png"
+      "relativePath": "textures/deco_sight_on.webp"
     },
     {
       "id": "deco_skeleton_arm_far_fore",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_arm_far_fore.png"
+      "relativePath": "textures/deco_skeleton_arm_far_fore.webp"
     },
     {
       "id": "deco_skeleton_arm_far_upper",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_arm_far_upper.png"
+      "relativePath": "textures/deco_skeleton_arm_far_upper.webp"
     },
     {
       "id": "deco_skeleton_arm_near_upper",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_arm_near_upper.png"
+      "relativePath": "textures/deco_skeleton_arm_near_upper.webp"
     },
     {
       "id": "deco_skeleton_body",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_body.png"
+      "relativePath": "textures/deco_skeleton_body.webp"
     },
     {
       "id": "deco_skeleton_feet",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_feet.png"
+      "relativePath": "textures/deco_skeleton_feet.webp"
     },
     {
       "id": "deco_skeleton_fist_empty",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_fist_empty.png"
+      "relativePath": "textures/deco_skeleton_fist_empty.webp"
     },
     {
       "id": "deco_skeleton_fist_n",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_fist_n.png"
+      "relativePath": "textures/deco_skeleton_fist_n.webp"
     },
     {
       "id": "deco_skeleton_forearm_n",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_forearm_n.png"
+      "relativePath": "textures/deco_skeleton_forearm_n.webp"
     },
     {
       "id": "deco_skeleton_shins",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_shins.png"
+      "relativePath": "textures/deco_skeleton_shins.webp"
     },
     {
       "id": "deco_skeleton_skull",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_skull.png"
+      "relativePath": "textures/deco_skeleton_skull.webp"
     },
     {
       "id": "deco_skeleton_thighs",
       "type": "image",
-      "relativePath": "textures/deco_skeleton_thighs.png"
+      "relativePath": "textures/deco_skeleton_thighs.webp"
     },
     {
       "id": "deco_splash_chocolate",
       "type": "image",
-      "relativePath": "textures/deco_splash_chocolate.png"
+      "relativePath": "textures/deco_splash_chocolate.webp"
     },
     {
       "id": "deco_werewolf_body",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_body.png"
+      "relativePath": "textures/deco_werewolf_body.webp"
     },
     {
       "id": "deco_werewolf_cape",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_cape.png"
+      "relativePath": "textures/deco_werewolf_cape.webp"
     },
     {
       "id": "deco_werewolf_head",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_head.png"
+      "relativePath": "textures/deco_werewolf_head.webp"
     },
     {
       "id": "deco_werewolf_leg_far",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_leg_far.png"
+      "relativePath": "textures/deco_werewolf_leg_far.webp"
     },
     {
       "id": "deco_werewolf_leg_hind",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_leg_hind.png"
+      "relativePath": "textures/deco_werewolf_leg_hind.webp"
     },
     {
       "id": "deco_werewolf_leg_near",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_leg_near.png"
+      "relativePath": "textures/deco_werewolf_leg_near.webp"
     },
     {
       "id": "deco_werewolf_paw_back",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_paw_back.png"
+      "relativePath": "textures/deco_werewolf_paw_back.webp"
     },
     {
       "id": "deco_werewolf_tail",
       "type": "image",
-      "relativePath": "textures/deco_werewolf_tail.png"
+      "relativePath": "textures/deco_werewolf_tail.webp"
     },
     {
       "id": "deco_zombie_arm_far",
       "type": "image",
-      "relativePath": "textures/deco_zombie_arm_far.png"
+      "relativePath": "textures/deco_zombie_arm_far.webp"
     },
     {
       "id": "deco_zombie_arm_near",
       "type": "image",
-      "relativePath": "textures/deco_zombie_arm_near.png"
+      "relativePath": "textures/deco_zombie_arm_near.webp"
     },
     {
       "id": "deco_zombie_body",
       "type": "image",
-      "relativePath": "textures/deco_zombie_body.png"
+      "relativePath": "textures/deco_zombie_body.webp"
     },
     {
       "id": "deco_zombie_head",
       "type": "image",
-      "relativePath": "textures/deco_zombie_head.png"
+      "relativePath": "textures/deco_zombie_head.webp"
     },
     {
       "id": "deco_zombie_leg_far",
       "type": "image",
-      "relativePath": "textures/deco_zombie_leg_far.png"
+      "relativePath": "textures/deco_zombie_leg_far.webp"
     },
     {
       "id": "deco_zombie_leg_near",
       "type": "image",
-      "relativePath": "textures/deco_zombie_leg_near.png"
+      "relativePath": "textures/deco_zombie_leg_near.webp"
     },
     {
       "id": "icon_ammo_empty",
       "type": "image",
-      "relativePath": "textures/icon_ammo_empty.png"
+      "relativePath": "textures/icon_ammo_empty.webp"
     },
     {
       "id": "icon_ammo_full",
       "type": "image",
-      "relativePath": "textures/icon_ammo_full.png"
+      "relativePath": "textures/icon_ammo_full.webp"
     },
     {
       "id": "icon_boss_pumpkin",
       "type": "image",
-      "relativePath": "textures/icon_boss_pumpkin.png"
+      "relativePath": "textures/icon_boss_pumpkin.webp"
     },
     {
       "id": "icon_candy_bean",
       "type": "image",
-      "relativePath": "textures/icon_candy_bean.png"
+      "relativePath": "textures/icon_candy_bean.webp"
     },
     {
       "id": "icon_candy_cane",
       "type": "image",
-      "relativePath": "textures/icon_candy_cane.png"
+      "relativePath": "textures/icon_candy_cane.webp"
     },
     {
       "id": "icon_candy_chocolate",
       "type": "image",
-      "relativePath": "textures/icon_candy_chocolate.png"
+      "relativePath": "textures/icon_candy_chocolate.webp"
     },
     {
       "id": "icon_candy_marshmallow",
       "type": "image",
-      "relativePath": "textures/icon_candy_marshmallow.png"
+      "relativePath": "textures/icon_candy_marshmallow.webp"
     },
     {
       "id": "icon_candy_popping",
       "type": "image",
-      "relativePath": "textures/icon_candy_popping.png"
+      "relativePath": "textures/icon_candy_popping.webp"
     },
     {
       "id": "icon_coin",
       "type": "image",
-      "relativePath": "textures/icon_coin.png"
+      "relativePath": "textures/icon_coin.webp"
     },
     {
       "id": "icon_heart",
       "type": "image",
-      "relativePath": "textures/icon_heart.png"
+      "relativePath": "textures/icon_heart.webp"
     },
     {
       "id": "icon_lock",
       "type": "image",
-      "relativePath": "textures/icon_lock.png"
+      "relativePath": "textures/icon_lock.webp"
     },
     {
       "id": "icon_pause",
       "type": "image",
-      "relativePath": "textures/icon_pause.png"
+      "relativePath": "textures/icon_pause.webp"
     },
     {
       "id": "icon_star",
       "type": "image",
-      "relativePath": "textures/icon_star.png"
+      "relativePath": "textures/icon_star.webp"
     },
     {
       "id": "icon_upgrade_attack",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_attack.png"
+      "relativePath": "textures/icon_upgrade_attack.webp"
     },
     {
       "id": "icon_upgrade_coins",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_coins.png"
+      "relativePath": "textures/icon_upgrade_coins.webp"
     },
     {
       "id": "icon_upgrade_defense",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_defense.png"
+      "relativePath": "textures/icon_upgrade_defense.webp"
     },
     {
       "id": "icon_upgrade_health",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_health.png"
+      "relativePath": "textures/icon_upgrade_health.webp"
     },
     {
       "id": "icon_upgrade_rate",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_rate.png"
+      "relativePath": "textures/icon_upgrade_rate.webp"
     },
     {
       "id": "icon_upgrade_reload",
       "type": "image",
-      "relativePath": "textures/icon_upgrade_reload.png"
+      "relativePath": "textures/icon_upgrade_reload.webp"
     },
     {
       "id": "icon_warning",
       "type": "image",
-      "relativePath": "textures/icon_warning.png"
+      "relativePath": "textures/icon_warning.webp"
     },
     {
       "id": "icon_wave_dot",
       "type": "image",
-      "relativePath": "textures/icon_wave_dot.png"
+      "relativePath": "textures/icon_wave_dot.webp"
     },
     {
       "id": "logo_title",
       "type": "image",
-      "relativePath": "textures/logo_title.png"
+      "relativePath": "textures/logo_title.webp"
     },
     {
       "id": "panel_bar_fill_health",
       "type": "image",
-      "relativePath": "textures/panel_bar_fill_health.png"
+      "relativePath": "textures/panel_bar_fill_health.webp"
     },
     {
       "id": "panel_bar_fill_progress",
       "type": "image",
-      "relativePath": "textures/panel_bar_fill_progress.png"
+      "relativePath": "textures/panel_bar_fill_progress.webp"
     },
     {
       "id": "panel_bar_track",
       "type": "image",
-      "relativePath": "textures/panel_bar_track.png"
+      "relativePath": "textures/panel_bar_track.webp"
     },
     {
       "id": "panel_button_price",
       "type": "image",
-      "relativePath": "textures/panel_button_price.png"
+      "relativePath": "textures/panel_button_price.webp"
     },
     {
       "id": "panel_button_primary",
       "type": "image",
-      "relativePath": "textures/panel_button_primary.png"
+      "relativePath": "textures/panel_button_primary.webp"
     },
     {
       "id": "panel_button_secondary",
       "type": "image",
-      "relativePath": "textures/panel_button_secondary.png"
+      "relativePath": "textures/panel_button_secondary.webp"
     },
     {
       "id": "panel_card",
       "type": "image",
-      "relativePath": "textures/panel_card.png"
+      "relativePath": "textures/panel_card.webp"
     },
     {
       "id": "panel_card_on",
       "type": "image",
-      "relativePath": "textures/panel_card_on.png"
+      "relativePath": "textures/panel_card_on.webp"
     },
     {
       "id": "panel_coin",
       "type": "image",
-      "relativePath": "textures/panel_coin.png"
+      "relativePath": "textures/panel_coin.webp"
     },
     {
       "id": "panel_dialog",
       "type": "image",
-      "relativePath": "textures/panel_dialog.png"
+      "relativePath": "textures/panel_dialog.webp"
     },
     {
       "id": "panel_ribbon",
       "type": "image",
-      "relativePath": "textures/panel_ribbon.png"
+      "relativePath": "textures/panel_ribbon.webp"
     },
     {
       "id": "panel_round_button",
       "type": "image",
-      "relativePath": "textures/panel_round_button.png"
+      "relativePath": "textures/panel_round_button.webp"
     },
     {
       "id": "panel_row",
       "type": "image",
-      "relativePath": "textures/panel_row.png"
+      "relativePath": "textures/panel_row.webp"
     },
     {
       "id": "panel_row_on",
       "type": "image",
-      "relativePath": "textures/panel_row_on.png"
+      "relativePath": "textures/panel_row_on.webp"
     },
     {
       "id": "seq_skybat_1",
       "type": "image",
-      "relativePath": "textures/seq_skybat_1.png"
+      "relativePath": "textures/seq_skybat_1.webp"
     },
     {
       "id": "seq_skybat_2",
       "type": "image",
-      "relativePath": "textures/seq_skybat_2.png"
+      "relativePath": "textures/seq_skybat_2.webp"
     },
     {
       "id": "bgm_battle",
